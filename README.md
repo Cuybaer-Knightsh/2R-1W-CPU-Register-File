@@ -246,10 +246,3 @@ under the [MIT License](LICENSE). The license does not cover the Cadence tools o
 GPDK 90 nm (`gsclib090`) library, which are licensed separately and are not included.
 
 ---
-
-## Team
-
-| Member | Reg. No. | Role |
-|---|---|---|
-| Anush Chauhan | 24BVD0194 | Front end: RTL design, functional verification, synthesis + DFT, logic equivalence check and gate-level STA |
-| Srihari Prabha | 24BVD0151 | Back end: floorplan, power planning, placement, clock tree synthesis, routing, physical signoff and GDSII |
